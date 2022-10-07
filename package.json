@@ -41,7 +41,7 @@
     "koa": "^2",
     "lint-staged": "^9.5.0",
     "mocha": "3.x",
-    "multer": "git+ssh://git@github.com:lilosir/multer.git",
+    "multer": "git+ssh://git@github.com:tilr-corp/multer.git",
     "nyc": "^15.0.0",
     "on-finished": "^2",
     "remark-cli": "^7.0.1",
